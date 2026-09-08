@@ -11,17 +11,6 @@
       "rating": 4.6,
       "files": ["types.xml"],
       "path": "presets/types_balanced/types_balanced_v124_001"
-    },
-    {
-      "id": "traders_expansion_001",
-      "title": "Expansion Trader Pack — Livonia",
-      "category": "traders",
-      "author": "ExampleModder",
-      "description": "Full trader config for Expansion mod, Livonia map.",
-      "compatibleVersions": ["1.25"],
-      "rating": 4.2,
-      "files": ["TraderConfig.json"],
-      "path": "presets/traders/traders_expansion_001"
     }
   ]
 }
