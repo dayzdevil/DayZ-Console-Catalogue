@@ -36,7 +36,7 @@
       "discord": "https://discord.gg/wzSzFDFPZR",
       "thumbnail": "https://cdn.discordapp.com/avatars/691617274318159883/928b537c802ccd062f0f5acb3b1155ab.png?size=4096",
       "files": ["Bhaalshads_Loot_Overhaul.zip"],
-      "path": "presets/types_balanced/loot_overhaul_normal"
+      "path": "presets/overhauls"
     },
     {
       "id": "types_loot_overhaul_boosted",
@@ -49,7 +49,7 @@
       "discord": "https://discord.gg/wzSzFDFPZR",
       "thumbnail": "https://cdn.discordapp.com/avatars/691617274318159883/928b537c802ccd062f0f5acb3b1155ab.png?size=4096",
       "files": ["Bhaalshads_Boosted_Loot_Overhaul.zip"],
-      "path": "presets/types_loothigh/loot_overhaul_boosted"
+      "path": "presets/overhauls"
     },
     {
       "id": "builds_skalisty_town",
