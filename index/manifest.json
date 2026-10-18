@@ -2,17 +2,6 @@
   "updatedAt": "2026-09-08T15:26:00.000Z",
   "presets": [
     {
-      "id": "types_balanced_v124_001",
-      "title": "Balanced Loot — Chernarus",
-      "category": "types_balanced",
-      "author": "dayzdevil666",
-      "description": "A moderate loot economy tuned for 60-pop Chernarus servers.",
-      "compatibleVersions": ["1.24", "1.25"],
-      "rating": 4.6,
-      "files": ["types.xml"],
-      "path": "presets/types_balanced/types_balanced_v124_001"
-    },
-    {
       "id": "mission_haunted_lands_50",
       "title": "Haunted Lands 5.0",
       "category": "missionpacks",
