@@ -23,7 +23,7 @@
       "discord": "https://discord.gg/wzSzFDFPZR",
       "thumbnail": "https://cdn.discordapp.com/avatars/691617274318159883/928b537c802ccd062f0f5acb3b1155ab.png?size=4096",
       "files": ["Haunted_Lands_5.0.zip"],
-      "path": "presets/missionpacks/haunted_lands_5.0"
+      "path": "presets/missionpacks"
     },
     {
       "id": "loot_overhaul_normal",
