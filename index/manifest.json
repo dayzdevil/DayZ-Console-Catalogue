@@ -26,9 +26,9 @@
       "path": "presets/missionpacks/haunted_lands_5.0"
     },
     {
-      "id": "types_loot_overhaul_normal",
+      "id": "loot_overhaul_normal",
       "title": "Normal Loot Overhaul",
-      "category": "types_balanced",
+      "category": "overhauls",
       "author": "bhaalshad",
       "description": "Loot spawn overhaul for both maps. Fixes category/usage mismatches. Extra files in the zip are optional. A wipe or soft wipe is recommended but not required. Nominal/min values start at vanilla.",
       "compatibleVersions": ["1.25"],
@@ -39,9 +39,9 @@
       "path": "presets/overhauls"
     },
     {
-      "id": "types_loot_overhaul_boosted",
+      "id": "loot_overhaul_boosted",
       "title": "Boosted Loot Overhaul",
-      "category": "types_loothigh",
+      "category": "overhauls",
       "author": "bhaalshad",
       "description": "Boosted variant of Bhaalshad's loot overhaul. Same install notes as the normal pack. Use a distinct zip; do not point this at the normal overhaul file.",
       "compatibleVersions": ["1.25"],
